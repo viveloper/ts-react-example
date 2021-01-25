@@ -1,8 +1,8 @@
 import React from 'react';
-import ReducerSample from './ReducerSample';
+import CounterContainer from './containers/CounterContainer';
 
 function App() {
-  return <ReducerSample />;
+  return <CounterContainer />;
 }
 
 export default App;
